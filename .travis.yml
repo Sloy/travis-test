@@ -18,4 +18,5 @@ android:
 
 script:
   - which android-update-sdk
+  - cat android-update-sdk
   - echo 'hello'
