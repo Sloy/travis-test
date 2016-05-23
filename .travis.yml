@@ -17,4 +17,5 @@ android:
     - 'android-sdk-license-.+'
 
 script:
+  - which android-update-sdk
   - echo 'hello'
