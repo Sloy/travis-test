@@ -18,5 +18,5 @@ android:
 
 script:
   - which android-update-sdk
-  - cat android-update-sdk
+  - cat /usr/local/bin/android-update-sdk
   - echo 'hello'
